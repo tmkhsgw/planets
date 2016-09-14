@@ -1,1 +1,3 @@
 Mars is a planet.
+This is a planet after Earth.
+It is not as blue as Neptune.
